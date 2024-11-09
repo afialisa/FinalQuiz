@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LISA\\source\\repos\\Quiz App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7F1C88-EB49-4031-AA58-2104BE12A3F3}|Quiz App\\Quiz App.vbproj|c:\\users\\lisa\\source\\repos\\quiz app\\quiz app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7F7F1C88-EB49-4031-AA58-2104BE12A3F3}|Quiz App\\Quiz App.vbproj|solutionrelative:quiz app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LISA\\AppData\\Local\\SourceServer\\9d7e72abf0e6610b0fa4762a2f21b6cfb3ab8f67f87ba2adb7f249ceb36b60e2\\src\\libraries\\System.Private.CoreLib\\src\\System\\Reflection\\MethodBaseInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7F1C88-EB49-4031-AA58-2104BE12A3F3}|Quiz App\\Quiz App.vbproj|c:\\users\\lisa\\source\\repos\\quiz app\\quiz app\\apiclient.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7F7F1C88-EB49-4031-AA58-2104BE12A3F3}|Quiz App\\Quiz App.vbproj|solutionrelative:quiz app\\apiclient.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7F1C88-EB49-4031-AA58-2104BE12A3F3}|Quiz App\\Quiz App.vbproj|c:\\users\\lisa\\source\\repos\\quiz app\\quiz app\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7F7F1C88-EB49-4031-AA58-2104BE12A3F3}|Quiz App\\Quiz App.vbproj|solutionrelative:quiz app\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LISA\\AppData\\Local\\Temp\\.vsdbgsrc\\93a57a14aea80535c351c3d9aa859ae8644f4de2\\Windows.Win32.PInvoke.USER32.dll.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7F1C88-EB49-4031-AA58-2104BE12A3F3}|Quiz App\\Quiz App.vbproj|c:\\users\\lisa\\source\\repos\\quiz app\\quiz app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7F7F1C88-EB49-4031-AA58-2104BE12A3F3}|Quiz App\\Quiz App.vbproj|solutionrelative:quiz app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LISA\\AppData\\Local\\SourceServer\\46285ff1ce5760eb357ce7487f15d8eb2b08b99fee663274ce712be770e29cdc\\Src\\Newtonsoft.Json\\Linq\\JToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LISA\\AppData\\Local\\SourceServer\\8075e2d768d9963fc51f24b793504c29e260320e4e98916338a33d457e55363c\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LISA\\AppData\\Local\\SourceServer\\c20052eb548aff6d9fd39d7fbcce745b8849627e87d2e656491683fa823fca75\\Src\\Newtonsoft.Json\\JsonTextReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7F1C88-EB49-4031-AA58-2104BE12A3F3}|Quiz App\\Quiz App.vbproj|c:\\users\\lisa\\source\\repos\\quiz app\\quiz app\\quiz app.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7F7F1C88-EB49-4031-AA58-2104BE12A3F3}|Quiz App\\Quiz App.vbproj|solutionrelative:quiz app\\quiz app.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Windows.Win32.PInvoke.USER32.dll.g.cs",
+              "DocumentMoniker": "C:\\Users\\LISA\\AppData\\Local\\Temp\\.vsdbgsrc\\93a57a14aea80535c351c3d9aa859ae8644f4de2\\Windows.Win32.PInvoke.USER32.dll.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\93a57a14aea80535c351c3d9aa859ae8644f4de2\\Windows.Win32.PInvoke.USER32.dll.g.cs",
+              "ToolTip": "C:\\Users\\LISA\\AppData\\Local\\Temp\\.vsdbgsrc\\93a57a14aea80535c351c3d9aa859ae8644f4de2\\Windows.Win32.PInvoke.USER32.dll.g.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\93a57a14aea80535c351c3d9aa859ae8644f4de2\\Windows.Win32.PInvoke.USER32.dll.g.cs [Read Only]",
+              "ViewState": "AgIAAPYSAAAAAAAAAAAkwB8TAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:52:20.752Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThrowHelper.cs",
+              "DocumentMoniker": "C:\\Users\\LISA\\AppData\\Local\\SourceServer\\8075e2d768d9963fc51f24b793504c29e260320e4e98916338a33d457e55363c\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\8075e2d768d9963fc51f24b793504c29e260320e4e98916338a33d457e55363c\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs",
+              "ToolTip": "C:\\Users\\LISA\\AppData\\Local\\SourceServer\\8075e2d768d9963fc51f24b793504c29e260320e4e98916338a33d457e55363c\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\8075e2d768d9963fc51f24b793504c29e260320e4e98916338a33d457e55363c\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAkwAkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:15:35.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JToken.cs",
+              "DocumentMoniker": "C:\\Users\\LISA\\AppData\\Local\\SourceServer\\46285ff1ce5760eb357ce7487f15d8eb2b08b99fee663274ce712be770e29cdc\\Src\\Newtonsoft.Json\\Linq\\JToken.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\46285ff1ce5760eb357ce7487f15d8eb2b08b99fee663274ce712be770e29cdc\\Src\\Newtonsoft.Json\\Linq\\JToken.cs",
+              "ToolTip": "C:\\Users\\LISA\\AppData\\Local\\SourceServer\\46285ff1ce5760eb357ce7487f15d8eb2b08b99fee663274ce712be770e29cdc\\Src\\Newtonsoft.Json\\Linq\\JToken.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\46285ff1ce5760eb357ce7487f15d8eb2b08b99fee663274ce712be770e29cdc\\Src\\Newtonsoft.Json\\Linq\\JToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANwEAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:28:09.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MethodBaseInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\LISA\\AppData\\Local\\SourceServer\\9d7e72abf0e6610b0fa4762a2f21b6cfb3ab8f67f87ba2adb7f249ceb36b60e2\\src\\libraries\\System.Private.CoreLib\\src\\System\\Reflection\\MethodBaseInvoker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\9d7e72abf0e6610b0fa4762a2f21b6cfb3ab8f67f87ba2adb7f249ceb36b60e2\\src\\libraries\\System.Private.CoreLib\\src\\System\\Reflection\\MethodBaseInvoker.cs",
+              "ToolTip": "C:\\Users\\LISA\\AppData\\Local\\SourceServer\\9d7e72abf0e6610b0fa4762a2f21b6cfb3ab8f67f87ba2adb7f249ceb36b60e2\\src\\libraries\\System.Private.CoreLib\\src\\System\\Reflection\\MethodBaseInvoker.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\9d7e72abf0e6610b0fa4762a2f21b6cfb3ab8f67f87ba2adb7f249ceb36b60e2\\src\\libraries\\System.Private.CoreLib\\src\\System\\Reflection\\MethodBaseInvoker.cs",
+              "ViewState": "AgIAAAkAAAAAZmZmZmYkwLUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:53:13.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\LISA\\source\\repos\\Quiz App\\Quiz App\\Form1.vb",
+              "RelativeDocumentMoniker": "Quiz App\\Form1.vb",
+              "ToolTip": "C:\\Users\\LISA\\source\\repos\\Quiz App\\Quiz App\\Form1.vb",
+              "RelativeToolTip": "Quiz App\\Form1.vb",
+              "ViewState": "AgIAABMBAAAAz8zMzMwQwBsBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T16:21:49.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\LISA\\source\\repos\\Quiz App\\Quiz App\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Quiz App\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\LISA\\source\\repos\\Quiz App\\Quiz App\\Form1.Designer.vb",
+              "RelativeToolTip": "Quiz App\\Form1.Designer.vb",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T16:20:15.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "apiClient.vb",
+              "DocumentMoniker": "C:\\Users\\LISA\\source\\repos\\Quiz App\\Quiz App\\apiClient.vb",
+              "RelativeDocumentMoniker": "Quiz App\\apiClient.vb",
+              "ToolTip": "C:\\Users\\LISA\\source\\repos\\Quiz App\\Quiz App\\apiClient.vb",
+              "RelativeToolTip": "Quiz App\\apiClient.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-31T22:00:05.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LISA\\source\\repos\\Quiz App\\Quiz App\\Form1.vb",
+              "RelativeDocumentMoniker": "Quiz App\\Form1.vb",
+              "ToolTip": "C:\\Users\\LISA\\source\\repos\\Quiz App\\Quiz App\\Form1.vb [Design]",
+              "RelativeToolTip": "Quiz App\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-04T16:19:35.808Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JsonTextReader.cs",
+              "DocumentMoniker": "C:\\Users\\LISA\\AppData\\Local\\SourceServer\\c20052eb548aff6d9fd39d7fbcce745b8849627e87d2e656491683fa823fca75\\Src\\Newtonsoft.Json\\JsonTextReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\c20052eb548aff6d9fd39d7fbcce745b8849627e87d2e656491683fa823fca75\\Src\\Newtonsoft.Json\\JsonTextReader.cs",
+              "ToolTip": "C:\\Users\\LISA\\AppData\\Local\\SourceServer\\c20052eb548aff6d9fd39d7fbcce745b8849627e87d2e656491683fa823fca75\\Src\\Newtonsoft.Json\\JsonTextReader.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\c20052eb548aff6d9fd39d7fbcce745b8849627e87d2e656491683fa823fca75\\Src\\Newtonsoft.Json\\JsonTextReader.cs",
+              "ViewState": "AgIAAA0HAAAAAAAAAAAmwBgHAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:46:20.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Quiz App",
+              "DocumentMoniker": "C:\\Users\\LISA\\source\\repos\\Quiz App\\Quiz App\\Quiz App.vbproj",
+              "RelativeDocumentMoniker": "Quiz App\\Quiz App.vbproj",
+              "ToolTip": "C:\\Users\\LISA\\source\\repos\\Quiz App\\Quiz App\\Quiz App.vbproj",
+              "RelativeToolTip": "Quiz App\\Quiz App.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-10-31T21:54:45.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
